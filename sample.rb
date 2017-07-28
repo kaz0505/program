@@ -4,3 +4,4 @@
 #
 puts "hello"
 puts "------"
+puts"yamato"
