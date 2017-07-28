@@ -2,4 +2,5 @@
 #
 # Sample
 #
-puts "hello"
+puts "HELLO"
+puts "-----"
