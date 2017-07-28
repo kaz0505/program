@@ -2,6 +2,5 @@
 #
 # Sample
 #
-puts "------"
-puts"yamato"
+puts "HELLO"
 puts "-----"
