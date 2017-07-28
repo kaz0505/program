@@ -2,4 +2,4 @@
 #
 # Sample
 #
-puts "hello"
+puts "hello,ruby"
