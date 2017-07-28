@@ -3,3 +3,4 @@
 # Sample
 #
 puts "hello"
+puts "-----"
